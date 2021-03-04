@@ -1,0 +1,22 @@
+.header {
+    text-align: center;
+    color: red;
+    font-size: xx-large;
+    margin: 20px;
+    padding: 20px;
+    text-decoration: underline;
+}
+
+.top-title {
+    width: 100%;
+    height: 10%;
+    background-color: #779e8c;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.footer-text {
+    text-align: center;
+    padding: 20px;
+}
