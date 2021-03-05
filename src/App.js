@@ -3,7 +3,6 @@ import './App.css';
 import Header from './components/header';
 import Layout from './components/footer';
 import List from './components/List';
-
 function App() {
   return (
     <div className="App">
@@ -21,7 +20,7 @@ function App() {
           Learn React
         </a>
       </header> */}
-      <Header />
+      <Header />  
       <List />
       <Layout />
     </div>
