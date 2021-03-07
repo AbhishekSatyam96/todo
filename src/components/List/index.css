@@ -1,0 +1,27 @@
+.table-layout {
+    margin: 5px;
+    padding: 5px;
+}
+
+.action button {
+    color: white;
+    border-radius: 100px;
+}
+
+.ant-table table {
+    text-align: center;
+}
+
+.ant-table-container table > thead > tr:first-child th {
+    background-color: #ccb59e;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.ant-table-filter-trigger {
+    color: #e40d0c;
+}
+
+.ant-table-tbody > tr > td {
+    background-color: #a2afb1;
+}
