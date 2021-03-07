@@ -45,7 +45,7 @@ class FormData extends Component {
             description, title
         } = this.state;
         if (!title) {
-            message.error("Please enter title to continue...");
+            message.error("Please enter Title to continue...");
             return;
         }
         if (!description) {
@@ -102,7 +102,7 @@ class FormData extends Component {
                 ]}
             >
                 <Form {...layout}>
-                    <Form.Item label="title">
+                    <Form.Item label="Title">
                         <Input
                             placeholder="Enter title"
                             value={title}
